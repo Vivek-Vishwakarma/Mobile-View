@@ -71,11 +71,7 @@ a:link{
   right: 0px;
   
 }
-.lines{
-  transform-origin: center;
-  transform: rotate(45deg);
-  
-}
+
 /*.lines2{
   transform-origin: left;
   transform: rotate(90deg);
